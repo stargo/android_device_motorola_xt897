@@ -9,6 +9,6 @@ TARGET_SCREEN_WIDTH := 720
 TARGET_SCREEN_HEIGHT := 1280
 
 # Release name
-PRODUCT_NAME := cm_moto_msm8960
+PRODUCT_NAME := cm_xt897
 
-$(call inherit-product, device/motorola/moto_msm8960/full_moto_msm8960.mk)
+$(call inherit-product, device/motorola/xt897/full_xt897.mk)
